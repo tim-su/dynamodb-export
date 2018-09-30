@@ -1,0 +1,12 @@
+{
+  "name": "dynamodb-export",
+  "version": "1.0.0",
+  "description": "A simple tool to export dynamobdb tables to csv or JSON format in local disk",
+  "main": "index.js",
+  "repository": "git@github.com:tim-su/dynamodb-export.git",
+  "author": "timsu-au <tim.y.su@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.325.0"
+  }
+}
